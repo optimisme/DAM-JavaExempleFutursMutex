@@ -4,8 +4,6 @@ En aquest projecte hi ha diversos exemples de com dibuixar al Canvas de JavaFX
 
 ### Compilació i funcionament ###
 
-Fer anar el  projecte amb
-
 A Linux i OSX:
 
 ```
