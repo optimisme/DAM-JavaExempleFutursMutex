@@ -1,6 +1,6 @@
-# Exemple Canvas JavaFX #
+# Exemple Futurs i Mutex #
 
-En aquest projecte hi ha diversos exemples de com dibuixar al Canvas de JavaFX
+En aquest projecte hi ha un exemple de com afegir 'threads' amb 'getRunnable' i que no es trepitgin les dades amb la concurrència.
 
 ### Compilació i funcionament ###
 
@@ -15,10 +15,3 @@ A Windows Powershell:
 ```
 .\run.bat
 ```
-
-### Llicència ###
-
-Tenir en compte les llicències JavaFX que hi ha en cada una de les respectives carpetes
-
-[JavaFX](https://openjdk.org/projects/openjfx/)
-
