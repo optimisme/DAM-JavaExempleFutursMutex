@@ -1,4 +1,4 @@
-# Exemple Canvas JavaFX - Tutorial #
+# Exemple Canvas JavaFX - Rellotge #
 
 En aquest projecte hi ha diversos exemples de com dibuixar al Canvas de JavaFX
 
