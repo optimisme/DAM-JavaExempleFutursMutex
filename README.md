@@ -1,4 +1,4 @@
-# Exemple Canvas JavaFX - Rellotge #
+# Exemple Canvas JavaFX #
 
 En aquest projecte hi ha diversos exemples de com dibuixar al Canvas de JavaFX
 
@@ -22,6 +22,3 @@ Tenir en compte les llicències JavaFX que hi ha en cada una de les respectives 
 
 [JavaFX](https://openjdk.org/projects/openjfx/)
 
-### Captura ###
-
-![Rellotge](https://raw.githubusercontent.com/optimisme/DAM-ExempleCanvasJavaFX-Rellotge/main/assets/icon.png)
